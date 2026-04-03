@@ -1,0 +1,19 @@
+REGULATORY UPDATE
+Date: January 2025
+
+Subject: New Margin Rules for Derivatives Trading
+
+1. Initial Margin Increase
+Initial margin requirement increased from 10% to 15%.
+
+2. Intraday Leverage Restrictions
+Intraday leverage capped at 5x.
+
+3. Reporting Changes
+Brokers must report client-level margin data daily.
+
+4. Penalties
+Non-compliance may result in fines and suspension.
+
+5. Effective Date
+March 1, 2025

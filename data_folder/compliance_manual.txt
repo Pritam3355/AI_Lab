@@ -1,0 +1,26 @@
+COMPLIANCE MANUAL
+Capital Markets Intermediary
+
+1. KYC Requirements
+All clients must submit valid identity and address proof before onboarding.
+
+2. Anti-Money Laundering (AML)
+Transactions above INR 10,00,000 are flagged for review.
+
+3. Trading Compliance
+- No insider trading allowed
+- Employees must pre-clear trades
+
+4. Risk Management
+- Daily margin monitoring
+- Exposure limits per client
+
+5. Reporting Obligations
+- Monthly reports to regulator
+- Suspicious transaction reporting
+
+6. Record Keeping
+All trade records must be retained for 7 years.
+
+7. Audit
+Internal audit conducted every 6 months.

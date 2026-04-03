@@ -1,0 +1,144 @@
+Regulatory Obligations Overview – 2020 and 2025 (SEBI / IFSCA / RBI)
+====================================================================
+
+This document is designed for an AI assistant that ingests regulatory content and highlights obligations, timelines and areas of regulatory focus for capital-markets compliance. It summarises key themes for 2020 and how they evolved by 2025.
+
+--------------------------------------------------------------------
+1. SEBI Cybersecurity – 2020 Baseline vs 2025 Clarifications
+--------------------------------------------------------------------
+
+2020 Baseline (SEBI Cybersecurity and Cyber Resilience)
+-------------------------------------------------------
+Year: 2020
+Regulator: SEBI
+Area: Cybersecurity and Cyber Resilience for SEBI-regulated entities
+
+Key expectations:
+- Establish and maintain a cybersecurity and cyber resilience framework.
+- Conduct regular cyber assessments, including an annual review of controls.
+- Monitor critical systems on an ongoing basis and detect unusual activity promptly.
+- Inform SEBI about significant cybersecurity events within prescribed timeframes.
+- Present the framework and key observations to the Board or relevant committee at least once a year.
+
+Purpose:
+The 2020 approach focused on ensuring that regulated entities had a structured cybersecurity framework, regular assessments and a clear process to keep the governing body informed.
+
+2025 Clarifications (CSCRF updates)
+-----------------------------------
+Year: 2025
+Regulator: SEBI
+Area: Cybersecurity and Cyber Resilience Framework (CSCRF) – clarifications and technical guidance
+
+Key expectations (additions and refinements):
+- Align internal cybersecurity policies with clarified CSCRF guidance on areas such as:
+  - Classification of information assets.
+  - Retention and review of system logs.
+  - Roles and responsibilities for oversight at senior management and Board level.[web:68][web:71]
+- Follow more detailed expectations for cyber security reviews, including:
+  - A documented Cyber Security Audit Policy aligned with recognised standards.
+  - Testing of critical systems using defined methods and scope.
+  - Tracking of observations from cyber reviews and completion of remediation within set timelines.[web:67][web:69][web:70][web:71]
+- Adhere to revised completion dates where SEBI has granted extended timelines for specific CSCRF elements (for example, implementation up to 31 August 2025 for certain items).[web:73]
+
+Purpose of the change:
+Compared with 2020, the 2025 updates are more specific. They are designed to bring greater clarity on how cybersecurity frameworks should operate in practice, how technical testing should be performed, and how implementation timelines should be managed and documented.
+
+Practical implication for policy:
+- 2020: Focus on “have a framework, review annually, report important events.”
+- 2025: Focus on “refine and document the framework in more detail, follow specific testing standards, and manage timelines and follow-up actions in a structured way.”
+
+--------------------------------------------------------------------
+2. IFSCA Fund Management – 2020 Framework vs 2025 Framework
+--------------------------------------------------------------------
+
+2020 Baseline (Fund Management in IFSC)
+---------------------------------------
+Year: 2020
+Regulator: IFSCA
+Area: Fund management activity from an International Financial Services Centre
+
+Key expectations:
+- Carry out fund management activities only through appropriately registered entities.
+- Meet minimum financial soundness and fit-and-proper criteria for registration.
+- Put in place suitable governance arrangements and internal controls.
+- Comply with disclosure and reporting requirements set out in the applicable regulations and directions.[web:63]
+
+Purpose:
+The 2020 framework’s main goal was to ensure that entities performing fund management in IFSC were properly authorised, financially sound and governed to a suitable standard.
+
+2025 Framework (IFSCA Fund Management Regulations, 2025)
+--------------------------------------------------------
+Year: 2025
+Regulator: IFSCA
+Area: IFSCA (Fund Management) Regulations, 2025 and related circulars
+
+Key expectations (additions and refinements):
+- Transition from the earlier framework to the IFSCA (Fund Management) Regulations, 2025, which:
+  - Introduce a more flexible and investor-friendly structure.
+  - Provide clear categories and conditions for Fund Management Entities (FMEs). [web:39]
+- Review fund structures, client documentation and internal processes so that they satisfy the new eligibility, disclosure, risk-management and stewardship provisions.
+- Use updated reporting formats and follow the transition framework issued in 2025 circulars, ensuring that reports are submitted in the revised templates and frequencies.[web:74]
+
+Purpose of the change:
+The 2025 framework updates the earlier regulations to provide more clarity and flexibility for FMEs while maintaining appropriate governance and reporting standards.
+
+Practical implication for policy:
+- 2020: Emphasis on “obtain and maintain authorisation with basic governance and reporting.”
+- 2025: Emphasis on “transition to a new, more detailed framework, update documentation and reporting, and align the operating model with the new categories and conditions.”
+
+--------------------------------------------------------------------
+3. RBI KYC / Digital Lending – 2020 Baseline vs 2025 Developments
+--------------------------------------------------------------------
+
+2020 Baseline (KYC and Digital Lending)
+---------------------------------------
+Year: 2020
+Regulator: RBI
+Areas: KYC Master Directions; early digital lending conduct expectations
+
+Key expectations:
+- Categorise customers by risk (for example, high, medium, low) and perform customer due diligence at onboarding.
+- Carry out periodic information updates and ongoing monitoring, with frequency linked to the customer’s risk profile.[web:65]
+- For digital and remote onboarding, apply approved KYC methods and keep records of the process.
+- For digital lending, obtain clear consent from customers when sharing information with external parties and provide understandable explanations of how data is used.
+
+Purpose:
+The 2020 baseline focused on ensuring that customer identification, risk-based reviews and basic digital-lending conduct were in place.
+
+2025 Developments (Digital Lending Directions and Consolidation)
+-----------------------------------------------------------------
+Year: 2025
+Regulator: RBI
+Areas: Digital Lending Directions, 2025; consolidation of circulars into Master Directions
+
+Key expectations (additions and refinements):
+- Implement the Digital Lending Directions, 2025 for all digital loans, including:
+  - Providing a Key Fact Statement before disbursement, summarising cost and terms.
+  - Presenting an all-inclusive annualised rate so customers can easily understand overall cost.
+  - Routing funds directly between the lender and borrower, with clearly defined roles for service providers.
+  - Ensuring digital lending applications meet specified conduct and disclosure standards.[web:72][web:75]
+- Align internal policies with the consolidation of multiple circulars into unified Master Directions by:
+  - Mapping existing internal policies to the new Master Directions.
+  - Updating references to reflect current regulatory documents.[web:72]
+
+Purpose of the change:
+The 2025 updates aim to make digital lending more transparent and consistent, and to simplify regulatory interpretation by consolidating several older instructions into clearer Master Directions.
+
+Practical implication for policy:
+- 2020: Emphasis on “risk-based KYC and basic digital-lending consent and disclosure.”
+- 2025: Emphasis on “more detailed customer information documents, structured digital-lending processes, and a clearer underlying Master Direction framework.”
+
+--------------------------------------------------------------------
+4. How to Use This Document in Your AI Assistant
+--------------------------------------------------------------------
+
+For your AI compliance assistant, this document can be used to:
+
+- Train the model to detect:
+  - Which year a requirement belongs to (2020 vs 2025).
+  - Whether a text is introducing a baseline framework or refining an existing one.
+- Extract fields such as:
+  - Regulator, area/topic, key expectations, timelines, and whether the text relates to governance, technology, licensing, reporting or conduct.
+- Illustrate how policy language evolves over time, while remaining neutral and focused on obligations and processes rather than consequences.
+
+This structure can be extended by adding more sections or more detailed examples while keeping the same neutral and constructive tone.

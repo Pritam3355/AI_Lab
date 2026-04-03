@@ -1,0 +1,102 @@
+Regulatory Obligations Dataset (SEBI / IFSCA / RBI)
+================================================================================
+
+Record 1
+Regulator: SEBI | Type: Circular
+Title: Minimum information for Audit Committee on Related Party Transactions
+Obligation: Pre-approval information for RPTs
+Summary: Provide detailed information to Audit Committee/shareholders before approving related party transactions, including relationship, value, tenure and justification.
+Risk Level: High | Compliance Type: Disclosure & Governance
+Frequency/Deadline: Before each RPT approval
+Impact if Breached: Potential violation of LODR; enforcement under SEBI Act.
+--------------------------------------------------------------------------------
+
+Record 2
+Regulator: SEBI | Type: Circular
+Title: Cybersecurity and Cyber Resilience for SEBI Regulated Entities
+Obligation: Cyber audit and incident reporting
+Summary: Implement cyber audit, continuous monitoring, incident reporting and annual Board review for cybersecurity framework.
+Risk Level: High | Compliance Type: Operational Risk & Technology
+Frequency/Deadline: Annual audit; immediate incident reporting
+Impact if Breached: Regulatory action for non-compliance with framework.
+--------------------------------------------------------------------------------
+
+Record 3
+Regulator: SEBI | Type: Circular
+Title: Measures for risk management in equity derivatives
+Obligation: Enhanced margining and monitoring
+Summary: Monitor client and member positions, manage concentration, enhance margining and stress testing for index derivatives.
+Risk Level: Medium | Compliance Type: Market Risk
+Frequency/Deadline: Ongoing daily monitoring
+Impact if Breached: Risk of enforcement for inadequate risk controls.
+--------------------------------------------------------------------------------
+
+Record 4
+Regulator: SEBI | Type: Circular
+Title: Special window for physical share transfer deeds
+Obligation: Process transfer deeds within special window
+Summary: Open special window to process delayed physical transfer deeds subject to KYC and verification.
+Risk Level: Low | Compliance Type: Investor Service
+Frequency/Deadline: During notified window period
+Impact if Breached: Investor complaints; possible supervisory action.
+--------------------------------------------------------------------------------
+
+Record 5
+Regulator: IFSCA | Type: Regulation
+Title: IFSCA (Fund Management) Regulations – FME registration
+Obligation: Register FME and maintain eligibility
+Summary: Fund Management Entities in IFSC must meet net worth, eligibility, governance and reporting requirements to be registered.
+Risk Level: High | Compliance Type: Licensing & Prudential
+Frequency/Deadline: Onboarding and ongoing
+Impact if Breached: Suspension or cancellation of FME registration.
+--------------------------------------------------------------------------------
+
+Record 6
+Regulator: IFSCA | Type: Circular
+Title: Circular on certification course for FME KMPs
+Obligation: Certification of KMPs
+Summary: Key managerial personnel of FMEs must complete specified certification courses within defined timelines.
+Risk Level: Medium | Compliance Type: Conduct & Governance
+Frequency/Deadline: Within regulatory timeline; periodic refresh
+Impact if Breached: Non-compliant KMP; restrictions on operations.
+--------------------------------------------------------------------------------
+
+Record 7
+Regulator: IFSCA | Type: Circular
+Title: Stewardship Code framework in IFSC
+Obligation: Implement stewardship code
+Summary: FMEs must adopt stewardship responsibilities, including voting, engagement and conflict management for investee entities.
+Risk Level: Medium | Compliance Type: ESG & Governance
+Frequency/Deadline: Ongoing; annual reporting
+Impact if Breached: Regulatory censure or conditions on registration.
+--------------------------------------------------------------------------------
+
+Record 8
+Regulator: RBI | Type: Master Direction
+Title: KYC Master Directions – risk-based KYC updates
+Obligation: Risk-based KYC and periodic review
+Summary: Banks and NBFCs must categorise customers by risk, perform periodic KYC review and upload standardised KYC data.
+Risk Level: High | Compliance Type: AML/CFT & Customer Due Diligence
+Frequency/Deadline: High risk: frequent; low risk: longer cycles
+Impact if Breached: AML/CFT breaches; monetary penalty, supervisory action.
+--------------------------------------------------------------------------------
+
+Record 9
+Regulator: RBI | Type: Guideline
+Title: Digital lending – explicit consent for data sharing
+Obligation: Explicit customer consent for data use
+Summary: Digital lenders must obtain explicit customer consent for data sharing with credit bureaus and third parties.
+Risk Level: High | Compliance Type: Consumer Protection & Data Privacy
+Frequency/Deadline: At onboarding and before each new use
+Impact if Breached: License restrictions or cancellation in severe cases.
+--------------------------------------------------------------------------------
+
+Record 10
+Regulator: RBI | Type: Master Direction
+Title: KYC provisions – removal of OTP-based lending cap
+Obligation: Align lending policies with new KYC directions
+Summary: Institution-specific KYC directions remove prior universal cap on OTP-based e-KYC loans, replacing with risk-based safeguards.
+Risk Level: Medium | Compliance Type: Credit Risk & KYC
+Frequency/Deadline: Policy update within regulatory timeline
+Impact if Breached: Supervisory findings and corrective action.
+--------------------------------------------------------------------------------

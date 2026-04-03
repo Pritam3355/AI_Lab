@@ -1,0 +1,30 @@
+SYSTEM AND ORGANIZATION CONTROLS (SOC) REPORT
+Capital Markets Brokerage Ltd.
+
+Reporting Period: April 1, 2024 – March 31, 2025
+
+1. Overview
+This SOC report outlines internal controls over financial reporting for Capital Markets Brokerage Ltd. The organization provides equity trading, derivatives trading, and portfolio advisory services.
+
+2. Control Environment
+The company maintains a strong governance framework led by the Board of Directors and Audit Committee.
+
+3. Risk Assessment
+Key risks identified:
+- Market volatility risk
+- Trade settlement failures
+- Cybersecurity breaches
+
+4. Control Activities
+- Daily reconciliation of trades
+- Automated margin checks
+- Segregation of duties between front office and back office
+
+5. Information Systems
+Trading systems are monitored 24/7 with redundancy mechanisms.
+
+6. Monitoring Controls
+Quarterly internal audits are conducted to ensure compliance.
+
+7. Conclusion
+No material weaknesses identified during the reporting period.
