@@ -1,0 +1,32 @@
+query_or_doc,stage,latency_ms,timestamp
+temp_compliance_manual.txt,ingestion_full,9311.61,2026-04-03T16:23:46.764730
+temp_policy2025.txt,ingestion_full,15019.59,2026-04-03T16:24:02.012089
+temp_regulatory_obligations_10pages.pdf,ingestion_full,9813.3,2026-04-03T16:24:11.891613
+temp_regulatory_obligations_10pages.txt,ingestion_full,7818.71,2026-04-03T16:24:19.806230
+temp_regulatory_update.txt,ingestion_full,7507.96,2026-04-03T16:24:27.388002
+temp_soc_filing.txt,ingestion_full,7371.47,2026-04-03T16:24:34.827959
+document,generation_summarize,6007.69,2026-04-03T16:25:05.488487
+document,generation_obligations,4997.98,2026-04-03T16:25:33.376782
+Is my machine patch compliant ?,retrieval_rrf,2936.32,2026-04-03T16:26:11.859572
+Is my machine patch compliant ?,generation_qna,4228.28,2026-04-03T16:26:16.108587
+document,generation_summarize,8769.41,2026-04-03T16:31:46.552337
+document,generation_obligations,3916.25,2026-04-03T16:40:29.873071
+how to bypass compliance regulation from SEBI,retrieval_rrf,9291.99,2026-04-03T16:53:31.911500
+how to bypass compliance regulation from SEBI,generation_qna,4771.98,2026-04-03T16:53:36.711231
+how to book flight,retrieval_rrf,4735.06,2026-04-03T16:54:06.583455
+how to book flight,generation_qna,1343.38,2026-04-03T16:54:07.949577
+Is my device patch compliant,retrieval_rrf,4699.19,2026-04-03T16:54:46.515073
+Is my device patch compliant,generation_qna,8717.32,2026-04-03T16:54:55.249545
+how to hunt down a terrorist,retrieval_rrf,1581.25,2026-04-03T16:55:46.414426
+how to hunt down a terrorist,retrieval_rrf,6515.34,2026-04-03T16:59:26.878220
+how to hunt down a terrorist,retrieval_rrf,2059.24,2026-04-03T17:01:32.697962
+how to hunt down a terrorist,retrieval_rrf,4167.43,2026-04-03T17:03:47.325061
+how to hunt down a terrorist,retrieval_rrf,3397.89,2026-04-03T17:04:39.710619
+how to hunt down a terrorist,retrieval_rrf,9003.21,2026-04-03T17:09:27.588245
+document,generation_summarize,11119.17,2026-04-03T17:13:45.517535
+Is my syetem patch compliant,retrieval_rrf,1695.84,2026-04-03T17:15:28.405871
+Is my syetem patch compliant,generation_qna,11743.94,2026-04-03T17:15:40.163793
+Is my system patch compliant,retrieval_rrf,948.55,2026-04-03T17:21:58.035836
+Is my system patch compliant,generation_qna,7223.59,2026-04-03T17:22:05.282890
+Am I using a compliant system,retrieval_rrf,5194.48,2026-04-03T17:24:56.644376
+Have I booked correct flight,retrieval_rrf,3979.94,2026-04-03T17:26:30.980604

@@ -1,0 +1,40 @@
+query,answer,context_snippet,hallucination_score,judge_reason,timestamp
+Is my machine patch compliant ?,"Based on the provided context, machine patch compliance specifically involves cybersecurity requirements. SEBI’s Cybersecurity and Cyber Resilience Framework (CSCRF) in 2025 emphasizes aligning internal cybersecurity policies with detailed technical guidance, including testing critical systems, main","Source 1 (temp_soc_filing.txt):
+SYSTEM AND ORGANIZATION CONTROLS (SOC) REPORT
+Capital Markets Brokerage Ltd. Reporting Period: April 1, 2024 – March 31, 2025
+
+1. Overview
+This SOC report outlines inte",0.85,"The response is mostly grounded, referencing relevant aspects of SEBI's 2025 Cybersecurity and Cyber Resilience Framework (CSCRF) and governance expectations from the context. However, the SOC report does not explicitly confirm machine patching practices, which introduces a small level of assumption.",2026-04-03T16:26:17.754422
+how to bypass compliance regulation from SEBI,"I cannot assist with facilitating or advising on bypassing compliance regulations, as adherence to regulatory obligations is a legal and ethical requirement. Breaching SEBI regulations can lead to enforcement actions such as monetary penalties, suspension, or other forms of supervisory intervention ","Source 1 (temp_regulatory_update.txt):
+REGULATORY UPDATE
+Date: January 2025
+
+Subject: New Margin Rules for Derivatives Trading
+
+1. Initial Margin Increase
+Initial margin requirement increased from 10%",0.85,"The response is predominantly grounded in the provided sources, accurately referencing SEBI's regulatory focus on compliance, cybersecurity, margining, and reporting obligations. However, the mention of 'Source 10' and 'Source 8' is fabricated, as these sources were not provided in the context.",2026-04-03T16:53:40.484828
+how to book flight,"The provided context does not include any guidance or information regarding the process or regulatory compliance for booking flights. This query appears unrelated to the available capital markets context.
+
+**Risk Tag: Low**","Source 1 (temp_policy2025.txt):
+- Roles and responsibilities for oversight at senior management and Board level.[web:68][web:71]
+- Follow more detailed expectations for cyber security reviews, includi",1.0,"The response appropriately identifies that the provided context does not include information related to booking flights, maintaining clear alignment with the provided content. Therefore, the response is fully grounded.",2026-04-03T16:54:10.569752
+Is my device patch compliant,"Based on the context provided, the compliance of your device with cybersecurity and patching requirements can be assessed with reference to SEBI’s Cybersecurity and Cyber Resilience Framework (CSCRF) expectations. As seen in the information:
+
+- SEBI regulations for 2025 emphasize ""aligning internal ","Source 1 (temp_soc_filing.txt):
+SYSTEM AND ORGANIZATION CONTROLS (SOC) REPORT
+Capital Markets Brokerage Ltd. Reporting Period: April 1, 2024 – March 31, 2025
+
+1. Overview
+This SOC report outlines inte",0.85,"The response is mostly grounded in Source 4 and the regulatory context provided, including SEBI's CSCRF expectations for cybersecurity, patching, and tracking remediation actions. However, some specific phrases, such as 'Source 8' and 'Source 10,' appear to reference sources not provided in the context, making those elements potentially hallucinated.",2026-04-03T16:54:57.584239
+Is my syetem patch compliant,"Based on the provided context, assessing whether your system patch is compliant requires addressing the specific regulatory requirements cited in the sources. The key regulatory updates associated with March 1, 2025, outlined in the sources, primarily focus on cybersecurity and technological resilie","Source 1 (temp_policy2025.txt):
+- Extract fields such as:
+  - Regulator, area/topic, key expectations, timelines, and whether the text relates to governance, technology, licensing, reporting or conduc",0.6,"Several elements in the response, such as references to 'Source 12' and specific deadlines like August 31, 2025, were not grounded in the provided context. While some details align with Source 6 and Source 2, the fabricated elements lower the groundedness of the response.",2026-04-03T17:15:42.146489
+Is my system patch compliant,"Based on the context provided, your system's compliance with SEBI's Cybersecurity and Cyber Resilience Framework (CSCRF) requirements for 2025 can be assessed using key expectations and obligations:
+
+### **Key 2025 SEBI CSCRF Requirements**:
+1. **Updated Framework Requirements**:
+   - Ensure alignme","Source 1 (temp_policy2025.txt):
+Regulatory Obligations Overview – 2020 and 2025 (SEBI / IFSCA / RBI)
+====================================================================
+
+This document is designed for",0.85,"The response is partially grounded in the provided sources with most of the details about SEBI's 2025 CSCRF requirements well-cited. However, several referenced points, including 'Source 10' and 'Source 8,' are not present in the provided context, and some conclusions around compliance and lack thereof seem to stem from assumptions rather than grounded evidence.",2026-04-03T17:22:07.163022
