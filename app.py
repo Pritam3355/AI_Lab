@@ -5,7 +5,7 @@ app.py  –  Streamlit UI for the Capital Market Compliance Assistant
 import streamlit as st
 import os
 import pandas as pd
-from backend import ComplianceAssistant
+from backend_bk import ComplianceAssistant
 from dotenv import load_dotenv
 
 load_dotenv()
